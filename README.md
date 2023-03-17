@@ -1,2 +1,2 @@
-# onecmd
-Multiple commands can be combined in a json file.
+# Storage location of json for onecmd.
+The URL to the json for onecmd is written in index.json.
