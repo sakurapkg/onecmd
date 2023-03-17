@@ -1,0 +1,16 @@
+{
+    "run" : [
+        {
+            "cmd" : "sudo apt update"
+        },
+        {
+            "cmd" : "sudo apt-get update"
+        },
+        {
+            "cmd" : "sudo apt upgrade"
+        },
+        {
+            "cmd" : "sudo apt-get upgrade"
+        }
+    ]
+}
