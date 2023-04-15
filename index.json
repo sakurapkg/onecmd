@@ -2,5 +2,9 @@
     "aug":{
         "id" : 1,
         "link" : "https://raw.githubusercontent.com/sakurapkg/onecmd/index/files/aug.json"
+    },
+    "test_echo": {
+        "id": 2,
+        "link": "https://raw.githubusercontent.com/sakurapkg/onecmd/index/files/echo.json"
     }
 }
