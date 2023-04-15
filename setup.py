@@ -1,5 +1,5 @@
 from setuptools import setup
-import pypkg
+import onecmd_sys
 import sys
 
 DESCRIPTION = "onecmd: Python pyproject.toml Genelator"
